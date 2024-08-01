@@ -7,5 +7,3 @@ sudo apt install zsh -y
 y
 
 bash tools/install.sh
-
-sed -i 's/ZSH_THEME="robbyrussell"/ZSH_THEME="zagora"/' ~/.zshrc
